@@ -1,0 +1,16 @@
+div#room-controls input {
+  font-family: Helvetica-LightOblique, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 1em;
+  width: 100%;
+  height: 2.5em;
+  padding: .5em;
+  display: block;
+  background: white;
+}
+
+div#room-controls button {
+  color: #fff;
+  background: 0 0;
+  border: 1px solid #686865;
+}

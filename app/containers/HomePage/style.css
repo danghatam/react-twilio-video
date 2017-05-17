@@ -1,0 +1,36 @@
+div#controls {
+  padding: 3em;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+div#controls div {
+  float: left;
+}
+div#controls div#room-controls,
+div#controls div#preview {
+  width: 16em;
+  margin: 0 1.5em;
+  text-align: center;
+}
+div#controls p.instructions {
+  text-align: left;
+  margin-bottom: 1em;
+  font-family: Helvetica-LightOblique, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 1.25em;
+  color: #777776;
+}
+div#controls button {
+  width: 15em;
+  height: 2.5em;
+  margin-top: 1.75em;
+  border-radius: 1em;
+  font-family: "Helvetica Light", Helvetica, sans-serif;
+  font-size: .8em;
+  font-weight: lighter;
+  outline: 0;
+}
+div#controls button:active {
+  position: relative;
+  top: 1px;
+}

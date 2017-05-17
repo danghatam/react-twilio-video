@@ -1,0 +1,20 @@
+div#log {
+  border: 1px solid #686865;
+}
+div#log {
+  width: 35%;
+  height: 12.5em;
+  text-align: left;
+  padding: 1.5em;
+  float: left;
+  overflow-y: scroll;
+}
+div#log p {
+  color: #686865;
+  font-family: 'Share Tech Mono', 'Courier New', Courier, fixed-width;
+  font-size: 1.25em;
+  line-height: 1.25em;
+  margin-left: 1em;
+  text-indent: -1.25em;
+  width: 90%;
+}
